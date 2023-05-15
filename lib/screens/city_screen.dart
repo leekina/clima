@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors
 import 'package:flutter/material.dart';
-import 'package:clima/.utilities/constants.dart';
+import 'package:clima/utilities/constants.dart';
 
 class CityScreen extends StatefulWidget {
   @override
