@@ -1,4 +1,4 @@
-import 'package:clima/utilities/constants.dart';
+import 'package:clima/.utilities/constants.dart';
 
 import 'location.dart';
 import 'networking.dart';
